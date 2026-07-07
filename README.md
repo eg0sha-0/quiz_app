@@ -114,11 +114,11 @@
 
 quiz\_app/
 
-&#x20; client/        # frontend-приложение
+client/        # frontend-приложение
 
-&#x20; server/        # backend API и WebSocket-сервер
+server/        # backend API и WebSocket-сервер
 
-&#x20; .gitignore
+.gitignore
 
-&#x20; README.md
+README.md
 
